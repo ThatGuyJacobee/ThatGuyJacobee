@@ -14,6 +14,7 @@ I'm a developer of the soon-to-be-public bot Elite Bot and my own community Elit
 <img align="left" alt="C#" width="26px" src="./img/c-sharp.svg"/>
 <img align="left" alt="Node.js" width="26px" src="./img/nodejs.svg"/>
 <img align="left" alt="MySQL" width="26px" src="./img/mysql.svg"/>
+<img align="left" alt="HeidiSQL" width="26px" src="./img/heidisql.png"/>
 <img align="left" alt="HTML5" width="26px" src="./img/html.svg"/>
 <img align="left" alt="CSS3" width="26px" src="./img/css.svg"/>
 <img align="left" alt="Git" width="26px" src="./img/git.svg"/>
