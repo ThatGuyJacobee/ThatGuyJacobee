@@ -1,8 +1,8 @@
 # Hey there, I'm Jacob 👋 
-I'm a developer of the soon-to-be-public bot Elite Bot and my own community Elite Gaming. ⚔️
+I'm a developer of Elite Bot and my own community Elite Gaming. ⚔️
 
 - I primarily work with Javascript & C# ▶️
-- Preparing for beta release of Elite Bot soon™️! Check it out at: https://elite-bot.com 😁
+- Elite Bot OUT NOW! Check it out at: https://elite-bot.com 😁
 - Run a Five M gaming community. Join up at: https://elite-gaming.co.uk 🏓
 - Currently a full-time Comp. Sci uni student. 🧑‍💻
 - Love cats and enjoy sweating out Destiny 2 & Rocket League in my spare time 😎
