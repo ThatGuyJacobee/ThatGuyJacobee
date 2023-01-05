@@ -12,6 +12,7 @@ I'm a developer of Elite Bot and my own community Elite Gaming. ⚔️
 <img align="left" alt="Visual Studio Code" width="26px" src="./img/visualstudiocode.svg"/>
 <img align="left" alt="JavaScript" width="26px" src="./img/javascript.svg"/>
 <img align="left" alt="C#" width="26px" src="./img/c-sharp.svg"/>
+<img align="left" alt="Python" width="26px" src="./img/python.png"/>
 <img align="left" alt="Node.js" width="26px" src="./img/nodejs.svg"/>
 <img align="left" alt="MySQL" width="26px" src="./img/mysql.svg"/>
 <img align="left" alt="HeidiSQL" width="26px" src="./img/heidisql.png"/>
