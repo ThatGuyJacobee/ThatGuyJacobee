@@ -16,6 +16,7 @@ I'm a developer of Elite Bot and my own community Elite Gaming. I also work in c
 <img align="left" alt="Python" width="26px" src="./img/python.png"/>
 <img align="left" alt="Node.js" width="26px" src="./img/nodejs.svg"/>
 <img align="left" alt="MySQL" width="26px" src="./img/mysql.svg"/>
+<img align="left" alt="MongoDB" width="26px" src="./img/mongodb.png"/>
 <img align="left" alt="HeidiSQL" width="26px" src="./img/heidisql.png"/>
 <img align="left" alt="HTML5" width="26px" src="./img/html.svg"/>
 <img align="left" alt="CSS3" width="26px" src="./img/css.svg"/>
