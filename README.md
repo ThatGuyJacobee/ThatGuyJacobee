@@ -2,9 +2,10 @@
 I'm a developer of Elite Bot and my own community Elite Gaming. I also work in community management at a very cool company! ⚔️
 
 - I primarily work with Javascript, C# & Java ▶️
-- Elite Bot now verified! Check it out at: https://elite-bot.com 😁
-- Run a Five M gaming community. Join up at: https://elite-gaming.gg 🏓
-- Currently a full-time Comp. Sci uni student. 🧑‍💻
+- [Elite Bot](https://elite-bot.com) - A feature-packed and multi-purpose verified Discord Bot! 🚀
+- [Elite Music](https://github.com/ThatGuyJacobee/Elite-Music) - A powerful and open-source music bot! 🎵
+- Run a small gaming community. Join up at: https://elite-gaming.gg 🏓
+- Currently a full-time 2nd Year CS Uni Student. 🧑‍💻
 - Love cats and enjoy sweating out Destiny 2 & Rocket League in my spare time 😎
 - Support: https://discord.gg/x6PwsHtVjE 🆘
 
