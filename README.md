@@ -24,6 +24,7 @@ I'm a developer of Elite Bot and my own community Elite Gaming. I also work in c
 <img align="left" alt="Git" width="26px" src="./img/git.svg"/>
 <img align="left" alt="GitHub" width="26px" src="./img/github-dark.svg"/>
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg"/>
+<img align="left" alt="Docker" width="26px" src="./img/docker.png"/>
 
 <br />
 
