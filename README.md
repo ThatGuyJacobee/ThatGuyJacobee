@@ -31,4 +31,5 @@ I'm a developer of Elite Bot and my own community Elite Gaming. I also work in c
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThatGuyJacobee&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats-jakub-martyniaks-projects.vercel.app/api?username=ThatGuyJacobee&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-jakub-martyniaks-projects.vercel.app/api/top-langs/?username=ThatGuyJacobee&show_icons=true&theme=radical&layout=donut&exclude_repo=ZAP-MC,ZAP-Craft-Server,ZAP-Craft-Client,ZAP-FiveM,Elite-Gaming-MC,Elite-Gaming-FiveM)
