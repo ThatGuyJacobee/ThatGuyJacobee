@@ -12,11 +12,13 @@ I'm a developer of Elite Bot and my own community Elite Gaming. I also work in c
 ### Languages & Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="./img/visualstudiocode.svg"/>
 <img align="left" alt="JavaScript" width="26px" src="./img/javascript.svg"/>
-<img align="left" alt="C#" width="26px" src="./img/c-sharp.svg"/>
-<img align="left" alt="Java" width="26px" src="./img/Java.png"/>
 <img align="left" alt="PHP" width="26px" src="./img/php.png"/>
+<img align="left" alt="Java" width="26px" src="./img/Java.png"/>
+<img align="left" alt="Kotlin (Android)" width="32px" src="./img/android-kotlin.png"/>
+<img align="left" alt="C#" width="26px" src="./img/c-sharp.svg"/>
 <img align="left" alt="Python" width="26px" src="./img/python.png"/>
 <img align="left" alt="Node.js" width="26px" src="./img/nodejs.svg"/>
+<img align="left" alt="Laravel" width="26px" src="./img/laravel-icon.png"/>
 <img align="left" alt="MySQL" width="26px" src="./img/mysql.svg"/>
 <img align="left" alt="MongoDB" width="26px" src="./img/mongodb.png"/>
 <img align="left" alt="HeidiSQL" width="26px" src="./img/heidisql.png"/>
@@ -31,5 +33,4 @@ I'm a developer of Elite Bot and my own community Elite Gaming. I also work in c
 
 ---
 
-![GitHub Stats](https://github-readme-stats-jakub-martyniaks-projects.vercel.app/api?username=ThatGuyJacobee&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats-jakub-martyniaks-projects.vercel.app/api/top-langs/?username=ThatGuyJacobee&show_icons=true&theme=radical&layout=donut&exclude_repo=ZAP-MC,ZAP-Craft-Server,ZAP-Craft-Client,ZAP-FiveM,Elite-Gaming-MC,Elite-Gaming-FiveM)
